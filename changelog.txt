@@ -1,0 +1,167 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.7.2
+Date: 2022.10.16
+  Removes:
+    - Removed "MSP - 30 new Science Packs" mod. (Reason - Conflicts with other mods.)
+---------------------------------------------------------------------------------------------------
+Version: 0.7.1
+Date: 2022.09.11
+  Removes:
+    - Removed "Logistic Memory Storage" mod. (Reason - Deprecated)
+  Modifications
+    - Switched "Belt Legacy" mod to optional.
+    - Switched "Electric Grid Enforcer" mod to optional.
+---------------------------------------------------------------------------------------------------
+Version: 0.7.0
+Date: 2022.08.12
+  Info:
+    - This version is huge update that adding 66 mods.
+  Major additions:
+    - Added "MSP - 30 new Science Packs" mod.
+  Additions:
+    - Added "Clean Floor" mod.
+    - Added "Tapeline" mod.
+    - Added "GDIW - Gah! DarnItWater!" mod.
+    - Added "Pipe Visualizer" mod.
+    - Added "Omega Drill" mod.
+    - Added "Factorissimo2" mod.
+    - Added "Armoured Biters" mod.
+    - Added "Bottleneck Lite" mod.
+    - Added "Milestones" mod.
+    - Added "Water Well (pump free water from the ground)" mod.
+    - Added "Bulk Rail Loader" mod.
+    - Added "The Dead Burn v17" mod.
+    - Added "Deadlock's Stacking Beltboxes & Compact Loaders" mod.
+    - Added "Deadlock's Crating Machine" mod.
+    - Added "Deadlock-Mod Integrations" mod.
+    - Added "Deadlock Stacking for The Dead Burn v17" mod.
+    - Added "Deadlock Stacking For Deep Core Mining" mod.
+    - Added "Deadlock Experimental Stacking" mod.
+    - Added "Deadlock Stacking For Angels" mod.
+    - Added "Deadlock Stacking for Schall Alien Loot" mod.
+    - Added "Even More Text Plates" mod.
+    - Added "Deadlock Stacking for Vanilla" mod.
+    - Added "Deadlock Stacking For Bobs" mod.
+    - Added "Frost Biters" mod.
+    - Added "Explosive Biters" mod.
+    - Added "Death Curses" mod.
+    - Added "Implant Camera" mod.
+    - Added "Big-Monsters" mod.
+    - Added "Holographic Signs" mod.
+    - Added "MFerrari mod sounds" mod.
+    - Added "Industrial Display Plates" mod.
+    - Added "Snouz Useful Icons" mod.
+    - Added "Emoji Signals" mod.
+    - Added "Schall Alien Loot" mod.
+    - Added "Schall Transport Group" mod.
+    - Added "Schall Alien Tech" mod.
+    - Added "Schall Language Pack" mod.
+    - Added "Schall Artillery" mod.
+    - Added "Schall Armoured Train" mod.
+    - Added "Schall Land Mine" mod.
+    - Added "Schall Missile Command" mod.
+    - Added "Schall Oil Fuel" mod.
+    - Added "Schall Combat Robotics" mod.
+    - Added "Schall Circuit Group" mod.
+    - Added "Schall Radioactive Waste" mod.
+    - Added "Schall Perpetual Machine" mod.
+    - Added "Space Extension Mod (SpaceX)" mod.
+    - Added "Regenerate Terrain" mod.
+    - Added "Switch Button by GalactusX31 updated for 1.0" mod.
+    - Added "Cheap Stone Ammo" mod.
+    - Added "Quicksave" mod.
+    - Added "Train announcements" mod.
+    - Added "Platforms" mod.
+    - Added "Beekeeping" mod.
+    - Added "Spidertron Logistics System" mod.
+    - Added "Logistic Memory Storage" mod.
+    - Added "Tarantulator" mod.
+    - Added "Extended Descriptions" mod.
+    - Added "Factorissimo 2 - notnotmelon fork" mod.
+    - Added "Factorissimo Power Pole Addon" mod.
+    - Added "Copy Machine Orientation" mod.
+    - Added "Rebuild Crash Site" mod.
+    - Added "pollution visuals" mod.
+    - Added "Death Log" mod.
+    - Added "Japanese Voice Alerts" mod.
+  Removes:
+    - Removed "Factorissimo2" mod.
+---------------------------------------------------------------------------------------------------
+Version: 0.6.4
+Date: 2022.08.11
+  Fixes:
+    - Repaired error with mod Space Exploration.
+  Removes:
+    - Removed "Flare Stack-SE" mod.
+---------------------------------------------------------------------------------------------------
+Version: 0.6.3
+Date: 2022.05.08
+  Additions:
+    - Added "Miku Roboport" mod.
+    - Added "Hatsune Enrichment Process" mod.
+    - Added "Helper for mods that create new characters" mod.
+---------------------------------------------------------------------------------------------------
+Version: 0.6.2
+Date: 2022.05.08
+  Additions:
+    - Added "Utilization Monitor Blargh" mod.
+    - Added "Science Bottles" mod.
+    - Added "Science pack glow" mod.
+    - Added "Advanced Substation" mod.
+    - Added "Japanese Station Names" mod.
+    - Added "Name Lists" mod.
+    - Added "Renamer" mod.
+---------------------------------------------------------------------------------------------------
+Version: 0.6.1
+Date: 2022.05.08
+  Additions:
+    - Added "Hall of Fame" mod.
+    - Added "Ekusplosion" mod.
+    - Added "Wind Turbines 2 Configurable Power" mod.
+    - Added "Shortcuts for 1.1" mod.
+    - Added "Sandro's Fixes" mod.
+    - Added "Schall Pickup Tower" mod.
+    - Added "Artisanal Reskins: Compatibility" mod.
+    - Added "Asphalt Roads"
+  Graphics:
+    - Improved graphic for some mods.
+    - Changed menu background graphic.
+  Optimization:
+    - Changed inventory items layout.
+  Changes:
+    - Numbering system of versions for mod has changed.
+---------------------------------------------------------------------------------------------------
+Version: 0.0.5
+Date: 2022.05.07
+  Additions:
+    - Added "Sushi Mod" mod.
+  Removes:
+    - Removed "More Storage Tanks" mod.
+  Fixes:
+    - Repaired modpack load error.
+---------------------------------------------------------------------------------------------------
+Version: 0.0.4
+Date: 2022.05.06
+  Addition:
+    - Added "Steam Trains" mod.
+  Fixes:
+    - Repaired in-game mod manager display.
+---------------------------------------------------------------------------------------------------
+Version: 0.0.3
+Date: 2022.04.18
+  Changes:
+    - Added changelog file.
+  Fixes:
+    - Repaired some mod links. 
+---------------------------------------------------------------------------------------------------
+Version: 0.0.2
+Date: 2022.04.18
+  Fixes:
+    - Repaired some mod links.
+---------------------------------------------------------------------------------------------------
+Version: 0.0.1
+Date: 2022.04.18
+  Info:
+    - Initial release
+  Locale:
+    - Only English are available.
