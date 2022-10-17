@@ -1,4 +1,4 @@
-# Angel-Bob-Clown-and-other-mods---modpack
+# Angel-Bob-Clown-and-other-mods-modpack
 
 This modpack is made from many mods like Angles's, Bob's or Clown's but there is much more like Aircraft or Cargoboats.
 
